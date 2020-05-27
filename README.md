@@ -1,1 +1,2 @@
-# python-ironhak
+# python-ironhack
+Ejercicios de python de Ironhack
